@@ -13,6 +13,18 @@ number of typos by over 240 percent!
 I hope you enjoy!
 
 
+## -- HOW TO BUILD --
+
+### WINDOWS
+(Only supported system)
+
+1) Make sure GCC is installed
+2) Run build.bat
+
+
+<!-- ## -- DOWNLOAD BINARY -- -->
+
+
 ## -- HOW TO TURN OFF ANNOYINGKEYBOARD.EXE --
 
 Step 1) Press CTRL + Q
